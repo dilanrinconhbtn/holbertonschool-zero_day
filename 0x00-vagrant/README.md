@@ -1,1 +1,1 @@
-This is answer for Uname of my pc
+This is answer for command uname of my pc
