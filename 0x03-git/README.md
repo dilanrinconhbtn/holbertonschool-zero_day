@@ -1,1 +1,1 @@
-Readme Git projectReadme Git project
+Readme Git project modification autorizate
